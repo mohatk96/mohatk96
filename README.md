@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mohatk96
+- 👀 I’m interested in Software development and Cyber security
+- 🌱 I’m currently learning web development(HTML,CSS and JavaScript)
+- 💞️ I’m looking to collaborate on projects and start ups
+- 📫 You can reach my by email at: mtmoha96@gmail.com, twitter: Mohatk96, 
